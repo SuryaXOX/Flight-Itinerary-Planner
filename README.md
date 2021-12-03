@@ -1,1 +1,2 @@
 # Flight-Itinerary-Planner
+The Flight Itinerary Planner is an application for airlines to book passengers on routes with the shortest flight time and the fewest layovers. The application will contain a file listing all routes that the airline flies. The user will enter an origin and destination airport, and the application will output the flight itinerary for their trip. This app would be used by airlines that would like to automate their booking process.
