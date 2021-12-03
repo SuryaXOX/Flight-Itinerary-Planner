@@ -9,7 +9,6 @@ import java.util.ArrayList;
  * DataWrangler creates the CS400Graph where
  * the vertices are Aiports and the edges
  * are weighted by distance in time
- * @author Cade Heinberg
  */
 public class DataWrangler {
 
