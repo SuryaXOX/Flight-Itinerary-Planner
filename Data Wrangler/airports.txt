@@ -1,0 +1,23 @@
+Washington,North Dakota,5
+North Dakota,Washington,5
+Washington,New York,12
+New York,Texas,15
+New York,Illinois,5
+New York,Michigan,1
+Illinois,New York,5
+Illinois,Florida,8
+Florida,Illinois,8
+Michigan,New York,1
+Illinois,North Dakota,5
+North Dakota,Illinois,5
+Illinois,Texas,7
+Texas,Colorado,4
+Colorado,Texas,4
+Texas,California,7
+California,Utah,2
+Utah,California,2
+Utah,Colorado,1
+Colorado,Utah,1
+Utah,Washington,3
+Utah,Wyoming,6
+Wyoming,Utah,6
