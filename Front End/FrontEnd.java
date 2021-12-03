@@ -3,13 +3,6 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Front end class to run Flight simulator created by group
- * Prompts user to enter starting and ending city destinations
- * and calculates shortes route using Dijkstras algorithm
- * @author eliverdun
- *
- */
 public class FrontEnd {
     private static Backend flightCreator = new Backend(); //backend object to make flights
 
